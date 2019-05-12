@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="Home"/>
+    <item android:id="@+id/event"
+        android:title="Event"/>
+    <item android:id="@+id/news"
+        android:title="News Feed"/>
+    <item android:id="@+id/volunteer"
+        android:title="Volunteers's"/>
+    <item android:id="@+id/donation"
+        android:title="Donation"/>
+    <item android:id="@+id/contact"
+        android:title="Contact Us"/>
+    <item android:id="@+id/about"
+        android:title="About Us"/>
+
+</menu>
